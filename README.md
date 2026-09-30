@@ -6,7 +6,11 @@ resizing many layers at once and keeping shape strokes constant.
 Design 3: dark only, a 3D opening where real panel screenshots fly in, a scroll-driven
 tour of the panel, 18 animated examples and a "try it" playground.
 
-## View it
+## Live page
+
+https://bigmisha87.github.io/ULTIMATE-ALIGN-LANDING-PAGE/
+
+## View it locally
 
 Open `index.html` in a browser (double-click works, no server needed), or turn on
 GitHub Pages for this repository (Settings → Pages → Deploy from a branch → `main` / root).
